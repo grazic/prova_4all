@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="37031" started-at="2019-11-17T01:59:06Z" finished-at="2019-11-17T01:59:43Z">
+  <suite name="Default suite" duration-ms="24246" started-at="2019-11-17T02:08:52Z" finished-at="2019-11-17T02:09:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="37031" started-at="2019-11-17T01:59:06Z" finished-at="2019-11-17T01:59:43Z">
+    <test name="Default test" duration-ms="24246" started-at="2019-11-17T02:08:52Z" finished-at="2019-11-17T02:09:16Z">
       <class name="test.tests.Desafio1">
-        <test-method status="PASS" signature="desafio1()[pri:0, instance:test.tests.Desafio1@cb5822]" name="desafio1" duration-ms="34842" started-at="2019-11-17T01:59:06Z" description="001 - Dasafio 1" finished-at="2019-11-17T01:59:41Z">
+        <test-method status="PASS" signature="desafio1()[pri:0, instance:test.tests.Desafio1@cb5822]" name="desafio1" duration-ms="22600" started-at="2019-11-17T02:08:52Z" description="001 - Dasafio 1" finished-at="2019-11-17T02:09:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- desafio1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.tests.Desafio1@cb5822]" name="closeBrowser" is-config="true" duration-ms="2089" started-at="2019-11-17T01:59:41Z" finished-at="2019-11-17T01:59:43Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.tests.Desafio1@cb5822]" name="closeBrowser" is-config="true" duration-ms="1573" started-at="2019-11-17T02:09:15Z" finished-at="2019-11-17T02:09:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
