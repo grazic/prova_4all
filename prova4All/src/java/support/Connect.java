@@ -14,7 +14,7 @@ public class Connect {
 	public WebDriver openChrome() {
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\graziela.cerentini\\eclipse-workspace\\studyingAutomation\\studyingAutomation\\drivers\\chromedriver.exe");
+				"C:\\Users\\GRAZI\\Downloads\\chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://shopcart-challenge.4all.com/");
