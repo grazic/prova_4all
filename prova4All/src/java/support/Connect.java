@@ -10,7 +10,8 @@ import java.io.File;
 import java.io.IOException;
 
 public class Connect {
-
+	
+	//Conecta ao chrodriver e abre a página
 	public WebDriver openChrome() {
 
 		System.setProperty("webdriver.chrome.driver",

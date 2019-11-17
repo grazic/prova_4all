@@ -12,7 +12,8 @@ import com.google.common.io.Files;
 public class Utils {
 	
 	static int screenshotCount = 0;
-
+	
+	//Método para tirar screenshot
 	public static void takeScreenshot(WebDriver driver) {	
 		
 		TakesScreenshot driverScr = (TakesScreenshot)driver;
